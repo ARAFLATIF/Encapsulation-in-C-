@@ -74,6 +74,18 @@ Benefits of Encapsulation:
 3. Security: Prevents unauthorized access to internal data.
 4. Modularity: Encapsulated code is easier to understand and maintain.
 
+
+//Encapsulation definition and uses picked up from OOP using JAVA :
+
+Hides the implementation 
+details of a class
+ ●
+ Forces the user to use an 
+interface to access data
+ ●
+ Makes the code more 
+maintainable
+
 Encapsulation allows you to create a clean, well-defined interface for interacting with objects 
 while hiding the complexity and maintaining control over how the object's data is accessed and modified.
 */
